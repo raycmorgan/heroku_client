@@ -1,0 +1,9 @@
+{ "name": "heroku_client"
+, "description": "A Heroku API Client."
+, "keywords": ["heroku"]
+, "version" : "0.1.0"
+, "homepage": "http://github.com/raycmorgan/heroku_client"
+, "author" : "RayMorgan <ray@rumgr.com>"
+, "main" : "index"
+, "dependencies": {}
+}
